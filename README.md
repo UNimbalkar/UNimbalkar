@@ -1,6 +1,6 @@
 ### Hi there My name is Udit Nimbalkar 👋
 
-- 🔭 I’m currently working on React
+- 🔭 I’m currently working on React/vue3
 
 - 🌱 Eager to Learn New Things 
 
